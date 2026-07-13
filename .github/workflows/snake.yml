@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: SaadLab06
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+            dist/snake.svg?color_snake=#1E1913&color_dots=#e4d9bf,#cdb992,#c9973b,#b3312a,#6e1f18
+            dist/snake-dark.svg?color_snake=#E8DCC0&color_dots=#221c17,#4a2e22,#7a2f24,#a63329,#c9973b
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
