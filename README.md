@@ -83,20 +83,9 @@ const saad = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SaadLab06&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=C9973B&icon_color=B3312A&text_color=A79E8C&ring_color=B3312A">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SaadLab06&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=8A2019&icon_color=B3312A&text_color=57503F&ring_color=B3312A">
-  <img alt="stats" height="170" src="https://github-readme-stats.vercel.app/api?username=SaadLab06&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=C9973B&icon_color=B3312A&text_color=A79E8C&ring_color=B3312A">
-</picture>
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SaadLab06&hide_border=true&background=00000000&stroke=00000000&ring=B3312A&fire=C9973B&currStreakNum=E8DCC0&sideNums=A79E8C&currStreakLabel=C9973B&sideLabels=8A8578&dates=6B6459">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=SaadLab06&hide_border=true&background=00000000&stroke=00000000&ring=B3312A&fire=B3312A&currStreakNum=1E1913&sideNums=57503F&currStreakLabel=8A2019&sideLabels=6B5F4A&dates=8A8578">
-  <img alt="streak" height="170" src="https://streak-stats.demolab.com?user=SaadLab06&hide_border=true&background=00000000&stroke=00000000&ring=B3312A&fire=C9973B&currStreakNum=E8DCC0&sideNums=A79E8C&currStreakLabel=C9973B&sideLabels=8A8578&dates=6B6459">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadLab06&layout=compact&langs_count=10&hide_border=true&bg_color=00000000&title_color=C9973B&text_color=A79E8C">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadLab06&layout=compact&langs_count=10&hide_border=true&bg_color=00000000&title_color=8A2019&text_color=57503F">
-  <img alt="languages" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadLab06&layout=compact&langs_count=10&hide_border=true&bg_color=00000000&title_color=C9973B&text_color=A79E8C">
+  <img alt="contribution streak" height="185" src="https://streak-stats.demolab.com?user=SaadLab06&hide_border=true&background=00000000&stroke=00000000&ring=B3312A&fire=C9973B&currStreakNum=E8DCC0&sideNums=A79E8C&currStreakLabel=C9973B&sideLabels=8A8578&dates=6B6459">
 </picture>
 
 </div>
